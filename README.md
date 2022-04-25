@@ -1,6 +1,5 @@
-![Lena Fuchs Intro](https://user-images.githubusercontent.com/89584303/163538082-be9670c6-315d-4793-b9ec-af86a3a9d521.png)
 
-
+<h1>Hi, I'm Lena! ✨ </h1>
 <strong>I'm a passionate Frontend Developer from Graz/Austria 🇦🇹 </strong>
 
 <h2>👩‍💻 I'm currently working with</h2>
